@@ -1,4 +1,4 @@
-WeatherApp está realizada con Angular 13, siguiendo el tutorial de DominiCode. 
+WeatherApp está realizada con Angular 13.
 
 Cuando ingreses a la app, te pedirá permiso para conocer tu ubicación, así te podrá mostrar el clima de tu ciudad en tiempo real.
 Esto está logrado gracias al uso de geo-localicación, a través del uso de la API OpenWeatherMap (https://api.openweathermap.org). 
